@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StevenElev11n
 - 👀 I’m interested in networking, system administration, cybersecurity, and programming.
-- 🌱 I’m currently learning Master of IT and Systems
+- 🌱 I’m currently studying Master of IT and Systems
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me: by email
 
